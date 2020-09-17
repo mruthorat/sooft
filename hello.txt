@@ -1,5 +1,13 @@
 this  is my new beginning on github.
 well in this sesssion i m gonna work on new projects.
+
+projects can be web application or desktop application.
+
+we have web applications 
+atozfinancesolutions.com
+virajgi.in
+
 projects can be 
 web application or 
 desktop application.
+
